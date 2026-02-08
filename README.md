@@ -9,7 +9,7 @@ The website represents a **family-run local garage** offering MOT testing, vehic
 ---
 
 ## User Experience (UX)
-
+Each page uses a unique header colour to subtly differentiate sections while maintaining a consistent layout.
 ### Target Audience
 
 * Local vehicle owners
