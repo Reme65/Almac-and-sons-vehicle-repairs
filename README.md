@@ -155,3 +155,25 @@ As a qualified vehicle mechanic, I drew on my real-world experience to design a 
 Applying this experience to the website, I ensured that all services listed are accurate and reflect genuine garage operations. I structured the site to be clear and accessible, with intuitive navigation and straightforward language, so that users of all backgrounds can quickly understand the services offered and how to book.
 
 I also made deliberate design choices, such as unique header colours per page and a clean layout, to help users orient themselves and reinforce trust. This project taught me how to translate my professional knowledge into a digital medium while keeping within the scope of beginner-level HTML and CSS, and it strengthened my ability to consider user experience in a practical context.
+
+Submission Checklist
+
+Before submission, I have ensured:
+
+ All pages load correctly and links work
+
+ Navigation is consistent and clear across pages
+
+ Content is accurate, clear, and authentic to real garage services
+
+ Page-specific header colours applied for orientation
+
+ Site is responsive on mobile, tablet, and desktop
+
+ Forms have labels and basic validation
+
+ Colour contrast is sufficient for accessibility
+
+ Deployment via GitHub Pages is live and stable
+
+ README fully documents UX, design decisions, testing, and reflection
